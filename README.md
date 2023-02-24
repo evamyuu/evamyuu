@@ -1,5 +1,3 @@
-![logo](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)
-
 <h1 align="center">Hi 👋, I'm Evelin</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
@@ -29,7 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evamyuu&show_icons=true&locale=en&layout=compact" alt="evamyuu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evamyuu&show_icons=true&locale=en&layout=compact" alt="evamyuu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evamyuu&show_icons=true&locale=en" alt="evamyuu" /></p>
 
