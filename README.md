@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evelin Cordeiro</h1>
 
-<h2 align="center">A passionate developer from Brazil ヽ(✿ﾟ▽ﾟ)ノ</h2>
+<h3 align="center">A passionate developer from Brazil ヽ(✿ﾟ▽ﾟ)ノ</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
