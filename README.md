@@ -1,31 +1,49 @@
-![logo](https://i.redd.it/ukppg8mkg2y71.jpg)
+<h2> Hi, I'm Evelin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h1 align="center">Hi 👋, I'm Evelin Cordeiro</h1>
+```javascript
+const eve = {
+    pronouns: "She" | "Her",
+    code: ["Java", "JavaScript", "HTML5", "CSS3"],
+    askMeAbout: ["Java", "Hardware"]
+    technologies: {
+        frontEnd: {
+            js: ["React"]
+        },
+        backEnd: {
+            js: ["Node"]
+        },
+        databases: ["Oracle"]
+    },
+    objective: ["Aspiring FullStack Developer"],
+    currentProject: ["ERP development"],
+    languages: ["Portuguese", "English"], 
+    likes: ["Cats", "animes", "games"], 
+    Fun Fact: ["My cat's name is Feijão"]
+};
+```
 
-<h3 align="center">A passionate developer from Brazil ヽ(✿ﾟ▽ﾟ)ノ</h3>
+## 🤓 I`m studying
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evamyuu&label=Profile%20views&color=0e75b6&style=flat" alt="evamyuu" /> </p>
-  
-- 🌱 I'm currently learning **HTML and CSS! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Excited to learn Python, Java and C# next!ヽ(ﾟ∀ﾟ)ﾉ**
 
-- 🤝 I’m looking to collaborate on **Web development projects and creating software or apps! (≧◡≦)**
+## 🌱 I want to learn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🌸 I'm currently working on **A website project with a lovely group of people (◕ᴗ◕✿)**
+## 💡 GitHub Stats
 
-- 💻 Tools **Using Visual Studio Code to code and create! (∩^o^)⊃━☆ﾟ.*･｡ﾟ**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evamyuu&theme=dark&bg_color=0D1117&border_color=444C56&show_icons=true&icon_color=444C56&title_color=FFB7C5&text_color=FFB7C5)
 
-- 👍 Teamwork **Thrives in a collaborative work environment and enjoys working with others to solve problems ٩(๑❛ᴗ❛๑)۶**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evamyuu&layout=compact&bg_color=0D1117&border_color=444C56&title_color=FFB7C5&text_color=ADBAC7)
 
-- 👥 Networking **Interested in connecting with other web developers and programmers (｡•̀ᴗ-)✧**
 
-- ⚡ Fun fact **I can recite the "F.U.N." song from SpongeBob from memory! 〜(꒪꒳꒪)〜**
+## 🙋‍♀️ Let's Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/evelin-cordeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evelin-cordeiro" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evelin-cordeiro/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/evelincordeiro2012)
