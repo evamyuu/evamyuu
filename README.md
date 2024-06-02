@@ -52,6 +52,7 @@ class Projects extends SoftwareDeveloper {
   ];
 }
 ```
+
 ```console
 evamyuu@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
