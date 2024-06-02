@@ -14,7 +14,7 @@ evamyuu@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
-<img align="left" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif" width="450"/> 
+<img align="left" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif" width="380"/> 
 
 ```js
 import {SoftwareDeveloper} from '@evamyuu';
