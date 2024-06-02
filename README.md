@@ -14,7 +14,7 @@ evamyuu@github:~$ ./welcome.sh
                 ||----w |
                 ||     ||
 ```
-<img align="left" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif"/> 
+<img align="left" src="https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif" width="450"/> 
 
 ```js
 import {SoftwareDeveloper} from '@evamyuu';
@@ -51,9 +51,6 @@ class Projects extends SoftwareDeveloper {
   ];
 }
 ```
-<p>
- a
-</p>
 
 ```console
 evamyuu@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
