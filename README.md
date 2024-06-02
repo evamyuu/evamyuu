@@ -51,13 +51,14 @@ class Projects extends SoftwareDeveloper {
   ];
 }
 ```
+<p>
+ 
+</p>
 
 ```console
 evamyuu@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
-<p>
- 
-</p>
+
 
 ```
 [sudo] Password for evamyuu:
