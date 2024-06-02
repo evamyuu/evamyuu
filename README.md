@@ -4,7 +4,7 @@
 const eve = {
     pronouns: "She" || "Her",
     code: ["Java", "JavaScript", "HTML5", "CSS3"],
-    askMeAbout: ["Java", "Hardware"], // added a comma here
+    askMeAbout: ["Java", "Hardware"],
     technologies: {
         frontEnd: {
             js: ["React"]
@@ -18,7 +18,7 @@ const eve = {
     currentProject: ["ERP development"],
     languages: ["Portuguese", "English"], 
     likes: ["Cats", "animes", "games"], 
-    "Fun Fact": "My cat's name is Feijão" // corrected the Fun Fact property name and removed the array brackets
+    "Fun Fact": "My cat's name is Feijão"
 };
 
 ```
