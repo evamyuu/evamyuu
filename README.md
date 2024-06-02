@@ -2,9 +2,9 @@
 
 ```javascript
 const eve = {
-    pronouns: "She" | "Her",
+    pronouns: "She" || "Her",
     code: ["Java", "JavaScript", "HTML5", "CSS3"],
-    askMeAbout: ["Java", "Hardware"]
+    askMeAbout: ["Java", "Hardware"], // added a comma here
     technologies: {
         frontEnd: {
             js: ["React"]
@@ -18,8 +18,9 @@ const eve = {
     currentProject: ["ERP development"],
     languages: ["Portuguese", "English"], 
     likes: ["Cats", "animes", "games"], 
-    Fun Fact: ["My cat's name is Feijão"]
+    "Fun Fact": "My cat's name is Feijão" // corrected the Fun Fact property name and removed the array brackets
 };
+
 ```
 
 ## 🤓 I`m studying
