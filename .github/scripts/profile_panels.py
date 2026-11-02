@@ -135,6 +135,7 @@ def snake_panel(path):
 
 
 GIFS = {
+    "header-ascii.svg": ("https://i.pinimg.com/originals/c6/b2/6a/c6b26ac905cbd299d5011fb7c70e6377.jpg", 676, 104, 180, 175),
     # file in assets/      -> (gif url, x, y, width, height)
     "about.svg": ("https://i.pinimg.com/originals/ca/4e/da/ca4eda573c1568d20f14bf7eb9eecd4a.gif", 620, 36, 248, 290),
     "footer.svg": ("https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif", 36, 40, 136, 136),
@@ -147,8 +148,16 @@ def embed_gifs(assets_dir):
         src = open(os.path.join(assets_dir, name)).read()
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         data = base64.b64encode(urllib.request.urlopen(req, timeout=30).read()).decode()
-        img = (f'<image x="{x}" y="{y}" width="{w}" height="{h}" preserveAspectRatio="xMidYMid meet" '
-               f'style="image-rendering:pixelated" href="data:image/gif;base64,{data}"/>')
+        mime = "image/jpeg" if url.endswith(".jpg") else "image/gif"
+        if mime == "image/jpeg":  # photo-like: rounded card
+            cid = "clip" + name.split(".")[0].replace("-", "")
+            img = (f'<clipPath id="{cid}"><rect x="{x}" y="{y}" width="{w}" height="{h}" rx="16"/></clipPath>'
+                   f'<image x="{x}" y="{y}" width="{w}" height="{h}" preserveAspectRatio="xMidYMid slice" '
+                   f'clip-path="url(#{cid})" href="data:{mime};base64,{data}"/>'
+                   f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="16" fill="none" stroke="#F5E6D3" stroke-width="2"/>')
+        else:
+            img = (f'<image x="{x}" y="{y}" width="{w}" height="{h}" preserveAspectRatio="xMidYMid meet" '
+                   f'style="image-rendering:pixelated" href="data:{mime};base64,{data}"/>')
         open(os.path.join(DIST, name), "w").write(src.replace("</svg>", img + "</svg>"))
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-ascii.svg" width="100%" alt="Evelin Cordeiro · full-stack · UX/UI · AI"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/header-ascii.svg" width="100%" alt="Evelin Cordeiro · full-stack · UX/UI · AI"/>
 </p>
 
 <p align="center">
