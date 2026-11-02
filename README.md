@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="about me"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/about.svg" width="100%" alt="about me"/>
 </p>
 
 <details>
@@ -26,5 +26,5 @@
 <p align="center"><a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/card-linkedin.svg" width="50%" alt="linkedin"/></a><a href="https://www.instagram.com/evamyuu/"><img src="./assets/card-instagram.svg" width="50%" alt="instagram"/></a></p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="thanks for stopping by, traveler"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/footer.svg" width="100%" alt="thanks for stopping by, traveler"/>
 </p>

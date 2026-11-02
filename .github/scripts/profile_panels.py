@@ -134,7 +134,26 @@ def snake_panel(path):
             f'<rect width="{W}" height="{H}" rx="14" fill="{BG}"/>{head}{inner}</svg>')
 
 
+GIFS = {
+    # file in assets/      -> (gif url, x, y, width, height)
+    "about.svg": ("https://i.pinimg.com/originals/ca/4e/da/ca4eda573c1568d20f14bf7eb9eecd4a.gif", 620, 36, 248, 290),
+    "footer.svg": ("https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif", 40, 60, 112, 112),
+}
+
+
+def embed_gifs(assets_dir):
+    import base64
+    for name, (url, x, y, w, h) in GIFS.items():
+        src = open(os.path.join(assets_dir, name)).read()
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        data = base64.b64encode(urllib.request.urlopen(req, timeout=30).read()).decode()
+        img = (f'<image x="{x}" y="{y}" width="{w}" height="{h}" preserveAspectRatio="xMidYMid meet" '
+               f'style="image-rendering:pixelated" href="data:image/gif;base64,{data}"/>')
+        open(os.path.join(DIST, name), "w").write(src.replace("</svg>", img + "</svg>"))
+
+
 if __name__ == "__main__":
+    embed_gifs(os.path.join(HERE, "..", "..", "assets"))
     open(os.path.join(DIST, "stats.svg"), "w").write(stats_svg(fetch()))
     snake = os.path.join(DIST, "garden-snake-dark.svg")
     if os.path.exists(snake):
