@@ -137,7 +137,7 @@ def snake_panel(path):
 GIFS = {
     # file in assets/      -> (gif url, x, y, width, height)
     "about.svg": ("https://i.pinimg.com/originals/ca/4e/da/ca4eda573c1568d20f14bf7eb9eecd4a.gif", 620, 36, 248, 290),
-    "footer.svg": ("https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif", 40, 60, 112, 112),
+    "footer.svg": ("https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif", 36, 40, 136, 136),
 }
 
 
