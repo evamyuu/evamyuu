@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="projects and awards"/>
+  <img src="./assets/projects.svg" width="100%" alt="project highlights"/>
   <br/>
   <sub>
     <a href="https://github.com/evamyuu/anicca">anicca</a> ·
@@ -18,9 +18,31 @@
   </sub>
 </p>
 
+<details>
+  <summary><code>~ $ ls ~/projects --all</code></summary>
+  <br/>
+
+| project | what it is |
+|---|---|
+| **BuddyWork** | Predictive AI + well-being + career growth for remote workers · FIAP Global Solution 2025.2 |
+| **Hackaforce: AI Edition** | GenAI proof of concept with Agentforce, pitched to executives · Vivo 2025 |
+| **Hackathon Arena Tech** | GenAI for large-scale content generation with Azure OpenAI and Databricks · Vivo 2024 |
+| [**Aura x LWC**](https://github.com/evamyuu/sf-lwc-aura-overview) | A Salesforce lesson comparing Aura Components and Lightning Web Components |
+| [**Metamorfose API**](https://github.com/evamyuu/metamorfose-api) | Spring Boot REST API integrated with Oracle PL/SQL procedures |
+
+</details>
+
+<br/>
+
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,dart,cs,react,nextjs,flutter&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,dotnet,firebase,postgres,redis,docker,azure,git,figma&perline=10" />
+  <br/>
+  <sub><code>salesforce</code> Apex · LWC · OmniStudio · Flows · Agentforce</sub><br/>
+  <sub><code>ai</code> LangGraph · RAG · Gemini · Ollama · YOLOv8 · Azure OpenAI · pgvector</sub>
 </p>
+
+<br/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=evamyuu&show_icons=true&hide_border=true&border_radius=14&bg_color=2A211C&title_color=E8A0A8&text_color=F5E6D3&icon_color=A8C69F"/>
