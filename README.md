@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/header-ascii.svg" width="100%" alt="Evelin Cordeiro · full-stack · UX/UI · AI"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/header-ascii.svg?v=1793663614" width="100%" alt="Evelin Cordeiro · full-stack · UX/UI · AI"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/about.svg" width="100%" alt="about me"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/about.svg?v=1793663614" width="100%" alt="about me"/>
 </p>
 
 <details>
@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/stats.svg" width="100%" alt="github stats"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/stats.svg?v=1793663614" width="100%" alt="github stats"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/garden-snake-panel.svg" width="100%" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/garden-snake-panel.svg?v=1793663614" width="100%" alt="contribution snake"/>
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/card-linkedin.svg" width="50%" alt="linkedin"/></a><a href="https://www.instagram.com/evamyuu/"><img src="./assets/card-instagram.svg" width="50%" alt="instagram"/></a></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/footer.svg" width="100%" alt="thanks for stopping by, traveler"/>
+  <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/footer.svg?v=1793663614" width="100%" alt="thanks for stopping by, traveler"/>
 </p>
