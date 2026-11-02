@@ -23,11 +23,7 @@
   <img src="https://raw.githubusercontent.com/evamyuu/evamyuu/output/garden-snake-panel.svg" width="100%" alt="contribution snake"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/card-linkedin.svg" width="32.6%" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/evamyuu/"><img src="./assets/card-instagram.svg" width="32.6%" alt="instagram"/></a>
-  <a href="https://www.dio.me/users/evelincordeiro2012"><img src="./assets/card-dio.svg" width="32.6%" alt="dio"/></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/card-linkedin.svg" width="50%" alt="linkedin"/></a><a href="https://www.instagram.com/evamyuu/"><img src="./assets/card-instagram.svg" width="50%" alt="instagram"/></a></p>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="thanks for stopping by, traveler"/>
