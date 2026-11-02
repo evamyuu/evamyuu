@@ -6,16 +6,9 @@
   <img src="./assets/about.svg" width="100%" alt="about me"/>
 </p>
 
-<p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="project highlights"/>
-</p>
-
 <details>
-  <summary><code>~ $ ls ~/projects --all</code></summary>
-  <br/>
-  <p align="center">
-    <img src="./assets/more.svg" width="100%" alt="more projects"/>
-  </p>
+  <summary><img src="./assets/projects.svg" width="100%" alt="project highlights · click to expand"/></summary>
+  <img src="./assets/more.svg" width="100%" alt="more projects"/>
 </details>
 
 <p align="center">
@@ -31,9 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/btn-linkedin.svg" height="40" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/evamyuu/"><img src="./assets/btn-instagram.svg" height="40" alt="instagram"/></a>
-  <a href="https://www.dio.me/users/evelincordeiro2012"><img src="./assets/btn-dio.svg" height="40" alt="dio"/></a>
+  <a href="https://www.linkedin.com/in/evelin-cordeiro/"><img src="./assets/card-linkedin.svg" width="32.6%" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/evamyuu/"><img src="./assets/card-instagram.svg" width="32.6%" alt="instagram"/></a>
+  <a href="https://www.dio.me/users/evelincordeiro2012"><img src="./assets/card-dio.svg" width="32.6%" alt="dio"/></a>
 </p>
 
 <p align="center">
